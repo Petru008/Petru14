@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Petru14
 - 👀 I’m interested in improving my knowledge about coding.
-- 🌱 I’m currently learning HTML, CSS.
+- 🌱 I’m currently learning HTML, CSS, JS.
 - 📫 How to reach me: banceanu.petru@yahoo.com
 
 <!---
